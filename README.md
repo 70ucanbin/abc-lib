@@ -1,2 +1,3 @@
-# abc-lib
-Library for competitive programming
+## Features
+
+コンテストでよく利用されるアルゴリズムやデータ構造を自分用にまとめたものです。
